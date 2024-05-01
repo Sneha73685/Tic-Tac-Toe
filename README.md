@@ -14,8 +14,3 @@ This repository contains a simple Python implementation of the classic Tic Tac T
 5. The game will continue until a player wins or the game ends in a draw.
 ## Requirements
 - Python 3.x
-## Usage
-To play the game, simply run the Python script `tic_tac_toe.py`:
-
-```bash
-python tic_tac_toe.py
